@@ -1,6 +1,6 @@
 Datos del estudiante
-Nombre: Jorge Otilio Salazar Diaz
-Matricula: s25018122
+Nombre: Jorge Otilio Salazar Diaz<br>
+Matricula: s25018122<br>
 Fecha: 03/10/25
 
 #Practicas en C++
