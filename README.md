@@ -3,8 +3,8 @@ Nombre: Jorge Otilio Salazar Diaz
 Matricula: s25018122
 Fecha: 03/10/25
 
-Descripcion del programa:
--Programa hecho en c++ que:
-*Pide al usuario ingresar dos valores cualesquiera.
-*Seleccionar la operacion que desean realizar con esos dos valores.
-*Apoyado de la sentencia switch para los posibles casos de eleccion de operadores.
+#Practicas en C++
+***
+#Practica 2. Operaciones basicas
+Programa que solicita dos numeros y un signo de operacion
++, -, *, /, y muestra el resultado de la operacion de la forma: 5 - 2 = 3
