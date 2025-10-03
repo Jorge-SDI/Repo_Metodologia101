@@ -2,6 +2,7 @@
 using namespace std;    
 int main() {    
     int a,b;
+    int resultado;
     cout << "Ingrese dos numeros: ";    
     cin >> a >> b;
     cout << "Ingrese la operacion (+, -, *,/ ): ";    
@@ -10,16 +11,20 @@ int main() {
     switch(signo) {
 
         case '+':
-            cout << "Resultado: " << a + b << endl;
+            resultado = a + b;
+            cout << a << " + " << b << " = " << resultado << endl;
             break;
         case '-':
-            cout << "Resultado: " << a - b << endl;
+            resultado = a - b;
+            cout << a << " - " << b << " = " << resultado << endl;
             break;
         case '*':
-            cout << "Resultado: " << a * b << endl;
+            resultado = a * b;
+            cout << a << " * " << b << " = " << resultado << endl;
             break;
         case '/':
-            cout << "Resultado: " << a / b << endl;
+            resultado = a / b;
+            cout << a << " / " << b << " = " << resultado << endl;
             break;
         default:
             cout << "Operacion no valida" << endl;
