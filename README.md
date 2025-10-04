@@ -1,4 +1,4 @@
-Datos del estudiante
+Datos del estudiante<br>
 Nombre: Jorge Otilio Salazar Diaz<br>
 Matricula: s25018122<br>
 Fecha: 03/10/25
